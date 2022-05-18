@@ -1,6 +1,6 @@
 # Pacman
 ## Description
-This app shows a Ninja Turtle themed Pacman moving horizontally across the screen within the page window.
+This app shows a Ninja Turtle themed Pacman moving horizontally across the screen within the page window and then will reverse direction.
 ## How to Run
 Load the page and the Pacman will automatically start moving from left to right until it gets to the page boundary. When it arrives at the page boundary it will flip and revere direction, and repeat.
 
